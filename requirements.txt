@@ -6,7 +6,6 @@ idna==2.10
 pyaes==1.6.1
 pyasn1==0.4.8
 pycparser==2.20
-pyOpenSSL==20.0.1
 PySocks==1.7.1
 requests==2.25.1
 rsa==4.7.2
